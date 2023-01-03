@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color:#222;
+}
+h1{
+    font-family:arial,Helvetica,sans-serif;
+    font-weight:700;
+    color:#fff;
+    font-size:50px;
+    text-align:center;
+}
+p{
+    font-family:verdana,Geneva,Thaoma,arial,sana-serif;
+    font-weight:400;
+    color:#fff;
+    padding:10px 20px;
+    margin-top:30px;
+}
